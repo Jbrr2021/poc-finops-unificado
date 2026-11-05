@@ -1,0 +1,5 @@
+defaultProject: "gen-lang-client-0862909089"
+defaultDataset: "dataform_sandbox"
+defaultLocation: "us-east1"
+defaultAssertionDataset: "dataform_assertions"
+dataformCoreVersion: "3.0.52"
