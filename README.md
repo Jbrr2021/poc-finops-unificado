@@ -47,7 +47,8 @@ Migração completa para o **Google Dataform**, aproveitando o poder do BigQuery
 ## 📸 Grafo de Execução e Sucesso da PoC
 
 *(Adicione aqui a imagem do Dataform com todas as execuções a verde)*
-![Dataform Execution](https://drive.google.com/file/d/1sUP1ppgU6p2qj97f1XetCq9yC-EfsmfU/view?usp=drive_link)
+![Dataform Execution](<img width="1841" height="877" alt="image" src="https://github.com/user-attachments/assets/f63f7563-1d50-4402-9693-713c4b9ca809" />
+)
 
 A imagem acima comprova o paralelismo da execução e a conclusão com sucesso do ciclo completo de agregação de *Billing*, limpeza de histórico, treino de modelos e tabelas de previsão final.
 
